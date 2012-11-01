@@ -225,6 +225,10 @@ textarea {
     /* Style adjustments for high resolution devices */
 }
 
+@media only screen and (-webkit-min-device-pixel-ratio: 2) {
+    /* Style adjustments for retina devices*/
+}
+
 /* ==========================================================================
    Print styles.
    Inlined to avoid required HTTP connection: h5bp.com/r
